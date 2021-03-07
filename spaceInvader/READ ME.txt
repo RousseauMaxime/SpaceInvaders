@@ -1,0 +1,4 @@
+S'il y a des problèmes avec la vitesse du vaisseau ou des aliens, allez dans space.py
+et changez la valeur :
+- ligne 30 et 34 (vaisseau) 
+- ligne 79 (aliens)
